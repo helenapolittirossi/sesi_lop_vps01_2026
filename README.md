@@ -3,7 +3,7 @@
 
 ## Tecnologias
 
-|tecnologia|Descrição|
+|Tecnologia|Descrição|
 |-|-|
 |Linguagem C|Dev|
 |[Draw.io](https://app.diagrams.net/)|Diagramas|
