@@ -27,7 +27,7 @@ void main(){
 
 ## Expressões matemáticas
 |Operação|Código Markdown|Visão|
-|-|-|
+|-|-|-|
 |Multiplicação|`$2 \times 3 = 6$`|$2 \times 3 = 6$|
 |Divisão|`$6 \div 2 = 3$`|$6 \div 2 = 3$|
 |Fração|`$\frac{1}{2}$`|$\frac{1}{2}$|
